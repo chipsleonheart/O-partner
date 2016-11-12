@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "476646833086",
+    "firebase_url": "https://orange-c406c.firebaseio.com",
+    "project_id": "orange-c406c",
+    "storage_bucket": "orange-c406c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476646833086:android:f2495285afb2a427",
+        "android_client_info": {
+          "package_name": "com.orangeku.o_partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476646833086-f486dop2bsk99n01klc7kl4vht1c1jml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orangeku.o_partner",
+            "certificate_hash": "A264B8C4A8A41D116DDD6DA877C323D73A3C62C0"
+          }
+        },
+        {
+          "client_id": "476646833086-4cqlas212ed9tnt9lhfn5auv7vnvv0pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTP8ro3jxxci4OWapV8ken2XEtVCbFv-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476646833086-4cqlas212ed9tnt9lhfn5auv7vnvv0pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
