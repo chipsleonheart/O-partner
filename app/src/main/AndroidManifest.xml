@@ -3,6 +3,9 @@
     package="com.orangeku.o_partner">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
 
     <application
         android:allowBackup="true"
@@ -32,6 +35,10 @@
             android:label="@string/title_activity_reset_password"
             android:theme="@style/AppTheme.NoActionBar" />
 
+        <activity
+            android:name=".ui.AddCar"
+            android:label="@string/input_mobil"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>
